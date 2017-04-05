@@ -46,7 +46,7 @@ Date: April 5th, 2017
 * <a href="https://www.uni-muenchen.de/aktuelles/news/2017/informatik_mitten_im_leben.html" target="_blank">News page of the event "Informatik mitten im Leben"</a>
 * <a href="http://www.pms.ifi.lmu.de/mitten-im-leben/" target="_blank">Event Schedule</a>
 
-<table>
+<table border="0">
 <tr>
 <td>
 <img src="images/eventPoster_small.jpg" alt="event poster image" style="width: 300px;"/> 
