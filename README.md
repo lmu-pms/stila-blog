@@ -48,9 +48,9 @@ Date: April 5th, 2017
 
 <table border="0">
 <tr>
-<td>
+<td border="0">
 <img src="images/eventPoster_small.jpg" alt="event poster image" style="width: 300px;"/> 
-</td><td>
+</td><td border="0>
 <img src="images/stila_stand.jpg" alt="event stand image" style="width: 300px;"/>
 </td>
 </tr>
