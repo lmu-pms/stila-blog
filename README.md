@@ -42,6 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * [Project Stila (Home Page)](http://stila.pms.ifi.lmu.de/)
 
 ## Stila at the event "50 years of Computer Science" at LMU
+Date: April 5th, 2017
 * <a href="https://www.uni-muenchen.de/aktuelles/news/2017/informatik_mitten_im_leben.html" target="_blank">News page of the event "Informatik mitten im Leben"</a>
 * <a href="http://www.pms.ifi.lmu.de/mitten-im-leben/" target="_blank">Event Schedule</a>
 
