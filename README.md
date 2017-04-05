@@ -40,3 +40,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Welcome to the blog page of project Stila
 * Stila (Stress Tracking in Learning Activities)
 * [Project Stila (Home Page)](http://stila.pms.ifi.lmu.de/)
+
+## Stila at the event "50 years of Computer Science" at LMU
+* <a href="https://www.uni-muenchen.de/aktuelles/news/2017/informatik_mitten_im_leben.html" target="_blank">News page of the event "Informatik mitten im Leben"</a>
+* <a href="http://www.pms.ifi.lmu.de/mitten-im-leben/" target="_blank">Event Schedule</a>
+
+![alt text](images/eventPoster_small.jpg "event poster")
+

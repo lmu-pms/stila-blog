@@ -1,3 +1,6 @@
+# Ignore all the .idea folder
+.idea
+
 # Logs
 logs
 *.log
