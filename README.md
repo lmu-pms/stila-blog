@@ -47,5 +47,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 <img src="images/eventPoster_small.jpg" alt="event poster image" style="width: 300px;"/>
 
-<img src="images/stila_stand" alt="event stand image" style="width: 300px;"/>
+<img src="images/stila_stand.jpg" alt="event stand image" style="width: 300px;"/>
 
