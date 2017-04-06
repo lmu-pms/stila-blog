@@ -40,6 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Welcome to the blog page of project Stila
 * Stila (Stress Tracking in Learning Activities)
 * [Project Stila (Home Page)](http://stila.pms.ifi.lmu.de/)
+* [Tech Info of Wearable Devices](posts/WearableTechInfo.md)
 
 ## Stila at the event "50 years of Computer Science" at LMU
 Date: April 5th, 2017
