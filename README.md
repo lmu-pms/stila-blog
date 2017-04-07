@@ -38,9 +38,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
 ## Welcome to the blog page of project Stila
-* Stila (Stress Tracking in Learning Activities)
+Stila stands for "Stress Tracking in Learning Activities"
+
 * [Project Stila (Home Page)](http://stila.pms.ifi.lmu.de/)
 * [Tech Info of Wearable Devices](posts/WearableTechInfo.md)
+* [Info of Analysis Tools](posts/AnalysisTools.md)
+
 
 ## Stila at the event "50 years of Computer Science" at LMU
 Date: April 5th, 2017
