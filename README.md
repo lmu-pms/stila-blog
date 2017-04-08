@@ -45,7 +45,7 @@ Stila stands for "Stress Tracking in Learning Activities"
 * [Info of Analysis Tools](posts/AnalysisTools.md)
 
 ## Things you need to know about stress
-* [How microbiome in our body plays the role.](posts/microbiome.md)
+* [The way how microbiome in our body plays the role.](posts/microbiome.md)
 
 
 ## Stila at the event "50 years of Computer Science" at LMU
