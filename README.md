@@ -43,6 +43,7 @@ Stila stands for "Stress Tracking in Learning Activities"
 * [Project Stila (Home Page)](http://stila.pms.ifi.lmu.de/)
 * [Tech Info of Wearable Devices](posts/WearableTechInfo.md)
 * [Info of Analysis Tools](posts/AnalysisTools.md)
+* [Useful References](posts/References.md)
 
 ## Things you need to know about stress
 * [The way how microbiome in our body plays the role.](posts/microbiome.md)
