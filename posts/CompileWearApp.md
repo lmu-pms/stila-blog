@@ -28,9 +28,11 @@ If you have any problems starting the app, it's most likely due to missing depen
 ## Development
 
 These commands have to be input in the "Terminal" Tab of Android Studio. You have to have adb.exe in your PATH, if you run Windows.
+
 **Find the name of the smartwatch**
 
 ``adb devices``
+
 **Uninstall Watch App**
 
 ``adb -s YOURDEVICENAME uninstall lmu.pms.stila``
@@ -42,6 +44,7 @@ These commands have to be input in the "Terminal" Tab of Android Studio. You hav
 **Bluetooth Debugging**
 
 (Phone has to be connected to PC and Bluetooth Debugging has to be activated in the WearOS App on the Phone)
+
 ``adb forward tcp:4444 localabstract:/adb-hub``
 
 ``adb connect 127.0.0.1:4444``
