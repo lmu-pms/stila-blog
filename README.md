@@ -43,6 +43,7 @@ Stila stands for "Stress Tracking in Learning Activities"
 * [Project Stila (Home Page)](http://stila.pms.ifi.lmu.de/)
 * [Tech Info of Wearable Devices](posts/WearableTechInfo.md)
 * [Info of Analysis Tools](posts/AnalysisTools.md)
+* [Developer Information for WearOS App](posts/CompileWearApp.md)
 * [Useful References](posts/References.md)
 
 ## Things you need to know about stress
@@ -57,10 +58,9 @@ Date: April 5th, 2017
 <table>
 <tr>
 <td>
-<img src="images/eventPoster_small.jpg" alt="event poster image" style="width: 300px;"/> 
+<img src="images/eventPoster_small.jpg" alt="event poster image" style="width: 300px;"/>
 </td><td>
 <img src="images/stila_stand.jpg" alt="event stand image" style="width: 300px;"/>
 </td>
 </tr>
 </table>
-
